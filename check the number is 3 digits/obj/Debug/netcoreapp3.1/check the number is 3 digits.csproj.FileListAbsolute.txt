@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\bin\Debug\netcoreapp3.1\check the number is 3 digits.exe
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\bin\Debug\netcoreapp3.1\check the number is 3 digits.deps.json
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\bin\Debug\netcoreapp3.1\check the number is 3 digits.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\bin\Debug\netcoreapp3.1\check the number is 3 digits.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\bin\Debug\netcoreapp3.1\check the number is 3 digits.dll
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\bin\Debug\netcoreapp3.1\check the number is 3 digits.pdb
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.dll
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.pdb
+C:\Users\ASUS\Desktop\C# intro\check the number is 3 digits\check the number is 3 digits\obj\Debug\netcoreapp3.1\check the number is 3 digits.genruntimeconfig.cache

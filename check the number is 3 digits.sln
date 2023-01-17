@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check the number is 3 digits", "check the number is 3 digits\check the number is 3 digits.csproj", "{60C9900F-9EA0-4BFE-92A0-F69B81DDDB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C9900F-9EA0-4BFE-92A0-F69B81DDDB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C9900F-9EA0-4BFE-92A0-F69B81DDDB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C9900F-9EA0-4BFE-92A0-F69B81DDDB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C9900F-9EA0-4BFE-92A0-F69B81DDDB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01AF9F4F-3C1B-45F7-B04D-1A098961AA42}
+	EndGlobalSection
+EndGlobal
